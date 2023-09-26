@@ -1,2 +1,4 @@
 Arquivo de texto
 Hoje é terça
+Amanha será quarta
+Dia 29/09 terá sol.
